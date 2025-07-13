@@ -63,4 +63,4 @@ def processar_imagem_em_blocos(caminho_imagem):
     salvar_matriz_como_imagem(matriz_bin, caminho_imagem+"_Binaria.png")
 
 # Executar
-processar_imagem_em_blocos("MotoGP.webp")  # substitua pelo nome da sua imagem
+processar_imagem_em_blocos("foto.png")  # substitua pelo nome da sua imagem
