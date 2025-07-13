@@ -19,4 +19,4 @@ def converter_para_ppm_p3(imagem_entrada, imagem_saida):
 
     print(f"Imagem convertida para PPM (P3) com sucesso: {imagem_saida}")
 
-converter_para_ppm_p3("Corvette.JPG", "imagem_convertida.ppm")
+converter_para_ppm_p3("imagem.jpg", "imagem_convertida.ppm")
