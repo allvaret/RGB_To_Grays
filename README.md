@@ -21,6 +21,14 @@ Todos os códigos trabalham com o formato **PPM - P3 (Portable Pixmap - ASCII)**
   Converte a imagem `.ppm` para tons de cinza utilizando uma **abordagem vetorial com multiplicação e bias**, simulando o comportamento de neurônios artificiais (uma introdução à ideia de redes neurais).
 
 ---
+## 🧪 Exemplos visuais
+
+Alguns exemplos das transformações de imagens realizadas neste projeto:
+
+| Imagem original | Conversão em escalas de cinza | Imagem Binária |
+|----------------|----------------------|--------------|
+| ![](https://github.com/allvaret/Reducao_de_dimensionalidade/blob/main/images/Corvette.webp) | ![](https://github.com/allvaret/Reducao_de_dimensionalidade/blob/main/images/Corvette.JPG_Cinza.png) | ![](https://github.com/allvaret/Reducao_de_dimensionalidade/blob/main/images/Corvette.JPG_Binaria.png) |
+
 
 ## 📌 Pré-requisitos
 
@@ -34,7 +42,7 @@ pip install pillow
 ```
 ---
 
-## 🧪 Exemplos de Uso
+## Exemplos de Uso
 
 Aqui estão exemplos práticos de como executar os scripts disponíveis neste repositório:
 
@@ -62,6 +70,7 @@ executar_transformacoes("imagem.ppm")
 
 ```
 ---
+
 
 ## ✍️ Autor
 - Desenvolvido por Alvaro Danko
